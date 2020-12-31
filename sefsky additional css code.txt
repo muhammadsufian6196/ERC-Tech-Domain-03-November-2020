@@ -1,0 +1,52 @@
+.featured-section .site-header{
+	background-color: #074361;
+	border:none;
+	border-bottom:5px solid #074389!important;
+	padding-top:0px;
+}
+.site-header.light{
+		background-color: #074361;
+	border:none;
+	border-bottom:5px solid #074389!important;
+	padding-top:0px;
+}
+.widget-title widgettitle{
+	font-family: cursive;
+}
+.site-footer{
+	background-color:#074385;
+	border-top:5px solid #0743
+}
+.site-header{
+	background-color: #074361;
+		border:none;
+	border-bottom:5px solid #074389!important;
+	padding-top:0px;
+}
+.elementor-post__title a:hover {
+    color: #F9A63B !important;
+}
+
+
+#menu-main-menu li a {
+    color: #fff;
+}
+
+#menu-main-menu li:hover {
+    background-color: #F9A63B;
+}
+.blog_post_content h3 {
+    color: #333333b5;
+}
+.blog_post_content h4 {
+    color: black;
+}
+.site-header {
+position: relative !important;
+}
+.amzn-native-header-text{
+	display:none;
+}
+.i2-pros-cons-wrapper ul li p {
+    margin-bottom: 10px;
+}
